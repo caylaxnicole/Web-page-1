@@ -9,10 +9,10 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 50px;
+  line-heigh: 100px;
 }
